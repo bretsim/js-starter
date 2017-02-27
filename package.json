@@ -1,0 +1,14 @@
+{
+  "name": "project-starter-kinga",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "Sitraka Ratsimba <sitraka.harry@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "./node_modules/.bin/rollup --watch -c"
+  },
+  "devDependencies": {
+    "rollup": "^0.41.4",
+    "rollup-watch": "^3.2.2"
+  }
+}
